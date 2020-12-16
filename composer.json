@@ -1,5 +1,6 @@
 {
-    "description": "",
+    "name": "uteq/etim-php-client",
+    "description": "A PHP Package for the ETIM API",
     "keywords": [
         "swagger",
         "php",
@@ -12,6 +13,9 @@
         {
             "name": "Swagger and contributors",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
+        },
+        {
+            "name": "Stef van den Berg"
         }
     ],
     "require": {
